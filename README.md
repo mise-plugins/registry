@@ -39,6 +39,7 @@ See the [org's readme](https://github.com/mise-plugins) for more information.
 | apollo-ios-cli                | [MacPaw/asdf-apollo-ios-cli](https://github.com/MacPaw/asdf-apollo-ios-cli)                                       |
 | Apollo Router                 | [safx/asdf-apollo-router](https://github.com/safx/asdf-apollo-router)                                             |
 | arc                           | [ORCID/asdf-arc](https://github.com/ORCID/asdf-arc)                                                               |
+| Arduino CLI                   | [egnor/asdf-arduino-cli](https://github.com/egnor/asdf-arduino-cli)                                               |
 | argo                          | [sudermanjr/asdf-argo](https://github.com/sudermanjr/asdf-argo)                                                   |
 | argo-rollouts                 | [abatilo/asdf-argo-rollouts](https://github.com/abatilo/asdf-argo-rollouts)                                       |
 | argocd                        | [beardix/asdf-argocd](https://github.com/beardix/asdf-argocd)                                                     |
