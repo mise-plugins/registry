@@ -232,6 +232,7 @@ See the [org's readme](https://github.com/mise-plugins) for more information.
 | flarectl                      | [mise-plugins/asdf-flarectl](https://github.com/mise-plugins/asdf-flarectl)                                       |
 | flatc                         | [TheOpenDictionary/asdf-flatc](https://github.com/TheOpenDictionary/asdf-flatc)                                   |
 | Flutter                       | [oae/asdf-flutter](https://github.com/oae/asdf-flutter)                                                           |
+| FlutterGen                    | [FlutterGen/asdf-fluttergen](https://github.com/FlutterGen/asdf-fluttergen)                                       |
 | Flux2                         | [tablexi/asdf-flux2](https://github.com/tablexi/asdf-flux2)                                                       |
 | Fluxctl                       | [stefansedich/asdf-fluxctl](https://github.com/stefansedich/asdf-fluxctl)                                         |
 | fly                           | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
