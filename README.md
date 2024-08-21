@@ -254,7 +254,6 @@ See the [org's readme](https://github.com/mise-plugins) for more information.
 | ghorg                         | [gbloquel/asdf-ghorg](https://github.com/gbloquel/asdf-ghorg)                                                     |
 | ghq                           | [kajisha/asdf-ghq](https://github.com/kajisha/asdf-ghq)                                                           |
 | ginkgo                        | [jimmidyson/asdf-ginkgo](https://github.com/jimmidyson/asdf-ginkgo)                                               |
-| git                           | [jcaigitlab/asdf-git](https://gitlab.com/jcaigitlab/asdf-git)                                                     |
 | git-chglog                    | [GoodwayGroup/asdf-git-chglog](https://github.com/GoodwayGroup/asdf-git-chglog)                                   |
 | git-cliff                     | [jylenhof/asdf-git-cliff](https://github.com/jylenhof/asdf-git-cliff)                                             |
 | gitconfig                     | [0ghny/asdf-gitconfig](https://github.com/0ghny/asdf-gitconfig)                                                   |
