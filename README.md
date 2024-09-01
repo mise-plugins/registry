@@ -662,6 +662,7 @@ See the [org's readme](https://github.com/mise-plugins) for more information.
 | svu                           | [asdf-community/asdf-svu](https://github.com/asdf-community/asdf-svu)                                             |
 | swag                          | [behoof4mind/asdf-swag](https://github.com/behoof4mind/asdf-swag)                                                 |
 | Swift                         | [fcrespo82/asdf-swift](https://github.com/fcrespo82/asdf-swift)                                                   |
+| swift-package-list            | [MacPaw/asdf-swift-package-list](https://github.com/MacPaw/asdf-swift-package-list)                               |
 | SwiftFormat                   | [younke/asdf-swiftformat](https://github.com/younke/asdf-swiftformat)                                             |
 | SwiftGen                      | [younke/asdf-swiftgen](https://github.com/younke/asdf-swiftgen)                                                   |
 | Swiftlint                     | [klundberg/asdf-swiftlint](https://github.com/klundberg/asdf-swiftlint)                                           |
