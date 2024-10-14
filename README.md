@@ -1,3 +1,7 @@
+## The mise registry is now in <https://github.com/jdx/mise/blob/main/registry.toml>
+
+---
+
 # mise plugins repository
 
 The purpose of the [mise](https://mise.jdx.dev) plugins repository is to enable
